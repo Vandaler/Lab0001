@@ -24,7 +24,7 @@ namespace Project_calculator
         private void button13_Click(object sender, EventArgs e)
         {
             input1 = double.Parse(ResultBox1.Text);
-            ResultBox1.Text = "0";
+            ResultBox1.Text = "";
             operation = "+";
             HistoryBx1.Clear();
         }
@@ -41,7 +41,7 @@ namespace Project_calculator
         private void button15_Click(object sender, EventArgs e)
         {
             input1 = double.Parse(ResultBox1.Text);
-            ResultBox1.Text = "0";
+            ResultBox1.Text = "";
             operation = "*";
             HistoryBx1.Clear();
         }
@@ -80,7 +80,7 @@ namespace Project_calculator
         private void button14_Click(object sender, EventArgs e)
         {
             input1 = double.Parse(ResultBox1.Text);
-            ResultBox1.Text = "0";
+            ResultBox1.Text = "";
             operation = "-";
             HistoryBx1.Clear();
         }
@@ -88,7 +88,7 @@ namespace Project_calculator
         private void button16_Click(object sender, EventArgs e)
         {
             input1 = double.Parse(ResultBox1.Text);
-            ResultBox1.Text = "0";
+            ResultBox1.Text = "";
             operation = "/";
             HistoryBx1.Clear();
         }
@@ -203,7 +203,7 @@ namespace Project_calculator
 
         private void button3_Click(object sender, EventArgs e)
         {
-            input2 = double.Parse(this.ResultBox1.Text);
+            input2 = double.Parse(ResultBox1.Text);
             if (operation == "+")
             {
                 result = input1 + input2;
@@ -226,7 +226,6 @@ namespace Project_calculator
                 result = input1 / input2;
                 ResultBox1.Text = result.ToString("#,###.#####");
                 HistoryBx1.Text = ($"{input1.ToString("#,###.#####")}{operation}{input2.ToString("#,###.#####")} = \n");
-            result = double.Parse(this.ResultBox1.Text);
             operation = String.Empty;
         }
 

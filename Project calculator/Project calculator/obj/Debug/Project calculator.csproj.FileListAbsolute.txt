@@ -9,3 +9,14 @@ D:\s code\Project calculator\Project calculator\obj\Debug\Project calculator.csp
 D:\s code\Project calculator\Project calculator\obj\Debug\Project calculator.csproj.CoreCompileInputs.cache
 D:\s code\Project calculator\Project calculator\obj\Debug\Project calculator.exe
 D:\s code\Project calculator\Project calculator\obj\Debug\Project calculator.pdb
+D:\s code\Lab0001\Project calculator\Project calculator\bin\Debug\Project calculator.exe.config
+D:\s code\Lab0001\Project calculator\Project calculator\bin\Debug\Project calculator.exe
+D:\s code\Lab0001\Project calculator\Project calculator\bin\Debug\Project calculator.pdb
+D:\s code\Lab0001\Project calculator\Project calculator\obj\Debug\Project calculator.csproj.AssemblyReference.cache
+D:\s code\Lab0001\Project calculator\Project calculator\obj\Debug\Project calculator.csproj.SuggestedBindingRedirects.cache
+D:\s code\Lab0001\Project calculator\Project calculator\obj\Debug\Project_calculator.Form1.resources
+D:\s code\Lab0001\Project calculator\Project calculator\obj\Debug\Project_calculator.Properties.Resources.resources
+D:\s code\Lab0001\Project calculator\Project calculator\obj\Debug\Project calculator.csproj.GenerateResource.cache
+D:\s code\Lab0001\Project calculator\Project calculator\obj\Debug\Project calculator.csproj.CoreCompileInputs.cache
+D:\s code\Lab0001\Project calculator\Project calculator\obj\Debug\Project calculator.exe
+D:\s code\Lab0001\Project calculator\Project calculator\obj\Debug\Project calculator.pdb
